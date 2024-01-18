@@ -1,0 +1,52 @@
+
+.leftmenu1{
+    
+    position: absolute;
+    left: 20%;
+    top: 3%;
+    color: chocolate;
+    text-underline-offset: 10px;
+   ;
+}
+.leftmenu2{
+    position: absolute;
+    color: black;
+    left: 18%;
+    top: 8%;
+    text-underline-offset: 5px;
+}
+.leftmenu3{
+    position: absolute;
+    color: black;
+    left: 17.8%;
+    top: 13.5%;
+    text-underline-offset: 10px;
+}
+img{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100px;
+   height: 162.44px;   
+} 
+.right{
+    position: absolute;
+    right: 20%;
+    top: 3%;
+    color: chocolate;
+    text-underline-offset: 10px;
+}
+.rightmenu1{
+    position: absolute;
+    color: black;
+    right: 18%;
+    top: 8%;
+    text-underline-offset: 10px;
+}
+.rightmenu2{
+    position: absolute;
+    color: black;
+    right: 17.8%;
+    top: 13.5%;
+    text-underline-offset: 10px;
+}
