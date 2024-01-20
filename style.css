@@ -1,6 +1,80 @@
-
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
 .leftmenu1{
     
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
     position: absolute;
     left: 20%;
     top: 3%;
@@ -9,13 +83,19 @@
    ;
 }
 .leftmenu2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
     position: absolute;
     color: black;
     left: 18%;
     top: 8%;
-    text-underline-offset: 5px;
+    text-underline-offset: 10px;
 }
 .leftmenu3{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
     position: absolute;
     color: black;
     left: 17.8%;
@@ -27,26 +107,60 @@ img{
    margin-left: auto;
    margin-right: auto;
    width: 100px;
-   height: 162.44px;   
+   height: 162.44px;  
+  
 } 
-.right{
+.right1{
+    font-weight: 500;
     position: absolute;
     right: 20%;
     top: 3%;
     color: chocolate;
-    text-underline-offset: 10px;
+    
 }
-.rightmenu1{
+.right2{
+    font-family: "Roboto", sans-serif;
+  
+    font-weight: 100;
+    font-style: italic;
     position: absolute;
     color: black;
     right: 18%;
     top: 8%;
     text-underline-offset: 10px;
 }
-.rightmenu2{
+.right3{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
     position: absolute;
     color: black;
     right: 17.8%;
     top: 13.5%;
     text-underline-offset: 10px;
+}
+
+.date
+{
+
+   text-align:center;
+   margin-top:-5%;
+   
+}
+.mainmenu{
+  text-align: center;
+}
+
+  
+
+.p1{
+  
+  color: black;
+  text-decoration: none;
+  text-transform: inherit;
+  
+
+}
+#menumain{
+  text-align: center;
 }
